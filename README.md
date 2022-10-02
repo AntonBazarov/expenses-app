@@ -1,2 +1,1 @@
-# first-react-app-expenses
-It is a first react app is developed by Anton Bazarov
+# Welcome to my first App is developed on React.js
